@@ -1,6 +1,4 @@
-#!/bin/bash
-
-# my second script 
+#!/bin/bash 
 
 # easily install brave browser
 
